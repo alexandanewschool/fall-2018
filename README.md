@@ -9,3 +9,6 @@ By the end of this course you will be able to build a webpage using HTML, CSS, a
 **SLIDES:**
 
 Here is the link to the slides:https://github.com/alexandanewschool/fall-2018/wiki
+
+**SYLLABUS:**
+Check out the syllabus in Canvas
